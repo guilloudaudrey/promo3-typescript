@@ -27,4 +27,4 @@ monTableau.filter((valeur) =>{
     return valeur === 'bloup';
 });
 
-import {} from './premier.ts';
+import {MaClasse} from './ma-classe';
