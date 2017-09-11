@@ -1,26 +1,26 @@
 {
-  "name": "promo3-typescript",
-  "version": "1.0.0",
-  "description": "",
-  "main": "premier.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/guilloudaudrey/promo3-typescript.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/guilloudaudrey/promo3-typescript/issues"
-  },
-  "homepage": "https://github.com/guilloudaudrey/promo3-typescript#readme",
-  "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4"
-  },
-  "devDependencies": {
-    "@types/body-parser": "^1.16.5"
-  }
+    "name": "promo3-typescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "premier.js",
+    "scripts": {
+        "test": "node dist/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/guilloudaudrey/promo3-typescript.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/guilloudaudrey/promo3-typescript/issues"
+    },
+    "homepage": "https://github.com/guilloudaudrey/promo3-typescript#readme",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "express": "^4.15.4"
+    },
+    "devDependencies": {
+        "@types/body-parser": "^1.16.5"
+    }
 }

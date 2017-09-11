@@ -30,13 +30,3 @@ return u;
     }
 }
 
-let list = new GestionUtilisateur();
-
-list.ajouter(new User("audrey", "simplon"));
-list.ajouter(new User("audrey2", "simplon"));
-
-console.log(list);
-
-list.supprimer("audrey2");
-
-console.log(list);
